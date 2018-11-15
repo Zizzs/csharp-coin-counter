@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/csharp-coin-combo/Coins/bin/Debug/netcoreapp1.1/Coins.deps.json
+/Users/Guest/Desktop/csharp-coin-combo/Coins/bin/Debug/netcoreapp1.1/Coins.dll
+/Users/Guest/Desktop/csharp-coin-combo/Coins/bin/Debug/netcoreapp1.1/Coins.pdb
+/Users/Guest/Desktop/csharp-coin-combo/Coins/obj/Debug/netcoreapp1.1/Coins.AssemblyInfo.cs
+/Users/Guest/Desktop/csharp-coin-combo/Coins/obj/Debug/netcoreapp1.1/Coins.dll
+/Users/Guest/Desktop/csharp-coin-combo/Coins/obj/Debug/netcoreapp1.1/Coins.pdb
